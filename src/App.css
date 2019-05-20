@@ -31,3 +31,48 @@
     transform: rotate(360deg);
   }
 }
+
+.sign {
+  background: #E5E8E8;
+  border-radius: 2px;
+  display: flex;
+  margin: 1rem;
+  padding: 1rem;
+  width: 500px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sign-card {
+  display: flex;
+  justify-content: center;
+  
+}
+
+ h1 {
+  font-family: Papyrus;
+  color: #283747;
+  font-size: 4em;
+  text-shadow: 3px 3px #E5E8E8;
+  border-bottom: solid;
+  border-bottom-color: #E5E8E8;
+  
+}
+
+h3 {
+  font-family: Papyrus;
+  color: #283747;
+  font-size: 3em;
+}
+
+.sign-image img {
+  max-width: 100%;
+}
+
+p {
+  font-family: Cambria;
+  color: #283747;
+  font-size: 1.2em;
+
+}
